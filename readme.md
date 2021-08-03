@@ -21,7 +21,7 @@ CI / CD
 
 	Что такое CD? Delivery / deployment<br>
    
-	[Хорошие практики](./readme.md).<br>
+	[Хорошие практики](./best-practices.md).<br>
 
 	[О тестировании в CI](./testers-part.md)<br>
 
