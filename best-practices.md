@@ -67,3 +67,5 @@ Continuous Delivery is sometimes confused with Continuous Deployment. Continuous
     * наймом системных аналитиков на роли "летописцев" в команды
         * отсюда так же дополнительная работа на HR
         * текучка кадров
+    
+Пруфы на пользы от использования этих практик находятся в State of DevOps 2019.
