@@ -56,3 +56,14 @@ Continuous Delivery это дисциплина разработки ПО так
 
 Continuous Delivery is sometimes confused with Continuous Deployment. Continuous Deployment means that every change goes through the pipeline and automatically gets put into production, resulting in many production deployments every day. Continuous Delivery just means that you are able to do frequent deployments but may choose not to do it, usually due to businesses preferring a slower rate of deployment. In order to do Continuous Deployment you must be doing Continuous Delivery.
 
+При отсутствии CI :
+
+Замедляется поток создания ценности, так как разработчик становится ботлнеком для других разработчиков, 
+* так как не проводится код ревью 
+    * не шарится экспертиза по продукту
+    * не шарится экспертиза между разработчиками в принципе
+* со временем проблема накапливается, менеджеру кажется, что она решится
+    * наймом новых разработчиков
+    * наймом системных аналитиков на роли "летописцев" в команды
+        * отсюда так же дополнительная работа на HR
+        * текучка кадров
